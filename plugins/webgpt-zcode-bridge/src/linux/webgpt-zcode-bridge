@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# webgpt-zcode-bridge — Linux 入口（仓库源码直跑；正式安装为 ZCode skill 属 Batch 5，不在本轮）。
+# 用法：
+#   webgpt-zcode-bridge list [limit]
+#   webgpt-zcode-bridge find <keyword>
+#   webgpt-zcode-bridge conv <conversation-id>
+#   webgpt-zcode-bridge transcript <conversation-id>
+#   webgpt-zcode-bridge send [--conv <conversation-id>] [--send] [--verify] "<message>"
+# 语义以 capabilities/webgpt-zcode-bridge/spec/cli-contract.md 为准。
+set -euo pipefail
+
+WZB_SELF="$(cd "$(dirname "$0")" && pwd)"
+WZB_ROOT="$(cd "$WZB_SELF/../.." && pwd)"
+WZB_TRANSPORT_DIR="${WZB_TRANSPORT_DIR:-$WZB_SELF}"
+export WZB_PAGE_DIR="${WZB_PAGE_DIR:-$WZB_ROOT/src/common/page}"
+
+. "$WZB_ROOT/src/common/cli.sh"
+wzb_main "$@"

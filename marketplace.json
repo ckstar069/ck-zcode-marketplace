@@ -1,0 +1,20 @@
+{
+  "description": "CK ZCode Plugin marketplace.",
+  "name": "ck-zcode-marketplace",
+  "plugins": [
+    {
+      "category": "developer-tools",
+      "description": "Controlled ZCode bridge for browser chatgpt.com WebGPT conversations.",
+      "name": "webgpt-zcode-bridge",
+      "source": "./plugins/webgpt-zcode-bridge",
+      "strict": true,
+      "tags": [
+        "zcode",
+        "webgpt",
+        "chatgpt",
+        "bridge"
+      ],
+      "version": "0.1.0-rc.1"
+    }
+  ]
+}

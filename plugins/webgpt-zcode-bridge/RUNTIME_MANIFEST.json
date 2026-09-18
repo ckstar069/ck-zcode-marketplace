@@ -1,0 +1,145 @@
+{
+  "files": [
+    {
+      "path": "src/common/cli.sh",
+      "git_mode": "100644",
+      "git_blob": "1c6f0ea14a70c32115ca078a33e85f978d27060e",
+      "sha256": "5f0833b2421b984e0381c63b4d5811866f978c792b72ca88b8cdd5af21773b08",
+      "size": 27015
+    },
+    {
+      "path": "src/common/page/auth.js",
+      "git_mode": "100644",
+      "git_blob": "de138d32930ddde093822fe20c414796eebc0224",
+      "sha256": "a58f676756a5915e04ae358fcf293603fae2c134a752374852d389f2c89ece77",
+      "size": 2004
+    },
+    {
+      "path": "src/common/page/composer.js",
+      "git_mode": "100644",
+      "git_blob": "c9aa64beb749081dee2d8c6f66ee260f6ac45179",
+      "sha256": "6b74ca59cb8d1e1c18eaa61e412b68c498f69fd837c2cfcab363f8f22f823864",
+      "size": 9598
+    },
+    {
+      "path": "src/common/page/conversation.js",
+      "git_mode": "100644",
+      "git_blob": "74327eacda75efec603a33ac222ef0cecf3e0e50",
+      "sha256": "f323d48327776675a387768902faf423ba356b83972b6c8c498b30a008fbc95f",
+      "size": 2176
+    },
+    {
+      "path": "src/common/page/conversations.js",
+      "git_mode": "100644",
+      "git_blob": "e9817eab865a5941de6949736a27968f41590ed9",
+      "sha256": "1948431a5d472a6dc3ec1a6dd887b5a07cf34f19078f5c10409647baa28d7b04",
+      "size": 1831
+    },
+    {
+      "path": "src/common/page/identity.js",
+      "git_mode": "100644",
+      "git_blob": "ffef2872339243a02d16661491f918de311f9f29",
+      "sha256": "5112f6fcb8d63a8206185d52a55f8a0e215cd92da99dcff97ceb677e40faf456",
+      "size": 5005
+    },
+    {
+      "path": "src/common/page/transcript.js",
+      "git_mode": "100644",
+      "git_blob": "021acc39555c60ca7593db165382cad3fc2e5a24",
+      "sha256": "2a849f901386c6a298a78b72c07c883956965e7f22a567ce4cd82d9b3bfcefcb",
+      "size": 3446
+    },
+    {
+      "path": "src/common/page/verify.js",
+      "git_mode": "100644",
+      "git_blob": "bf97dc6c074ddf683716d5da2ae9c7911bc3b275",
+      "sha256": "72b3806abc74250e81c40dca5b6ce7b080761406949b0e037cbb455e29f1d73b",
+      "size": 3062
+    },
+    {
+      "path": "src/linux/broker-client.mjs",
+      "git_mode": "100644",
+      "git_blob": "5267001e9c452cf0f11b62fe717d5f30212eab57",
+      "sha256": "e91f822138ca9d118b30b8cd977d1ee7e38d27e4b058814f0670cda338863382",
+      "size": 9549
+    },
+    {
+      "path": "src/linux/cdp-broker.mjs",
+      "git_mode": "100644",
+      "git_blob": "da95a2353f55f60a03a83a63dcaa4413089ff966",
+      "sha256": "be41038a100e65d5b83dfc04684fb3f52db5fba4447e44321e980260f0943e9c",
+      "size": 12137
+    },
+    {
+      "path": "src/linux/cdp-client.mjs",
+      "git_mode": "100644",
+      "git_blob": "9ae71a3ba0e0bbe99cd8f49d9e3fff28c3695313",
+      "sha256": "a1b3004245291c7dfe4b14d22b84421433aa0a8d5bae8930c03c2023671ed96b",
+      "size": 3337
+    },
+    {
+      "path": "src/linux/cdp-core.mjs",
+      "git_mode": "100644",
+      "git_blob": "ffe6ec783bbd55d3b30a965954afb2e9990552f2",
+      "sha256": "9545c32c96ad66c1f4c5019d0930178345771ed64d34aa1ef9edf881116258fa",
+      "size": 26929
+    },
+    {
+      "path": "src/linux/transport.sh",
+      "git_mode": "100644",
+      "git_blob": "273b94e98e15fc3dfde15f64d64f96f9bb4f1bbb",
+      "sha256": "33aaeffb8d537e224fb6e269656033bffb8f2a3b93d7f258c6d8cdd96e8c9c5c",
+      "size": 8893
+    },
+    {
+      "path": "src/linux/webgpt-zcode-bridge",
+      "git_mode": "100755",
+      "git_blob": "cb854bafae014d8060e361a288d28fa5941a9433",
+      "sha256": "39b260b3d313307c01dcdb3e7d8c601ca345bb9d3d453c14feb36200bcccea08",
+      "size": 762
+    },
+    {
+      "path": "src/macos/transport.sh",
+      "git_mode": "100644",
+      "git_blob": "cdc1ccbce519c29a7291d88e53fa2c43cb7b46a1",
+      "sha256": "e649548aa0c240043bb400e67fe17dce8afe324d495b4b2eece7d39fdbf6fb49",
+      "size": 7004
+    },
+    {
+      "path": "src/macos/webgpt-zcode-bridge",
+      "git_mode": "100755",
+      "git_blob": "b2e8ab4fa45288409ab1afdde1aa5ded64a2e11b",
+      "sha256": "70fb3e50c1036095175c9c0df3a6ddaaddeb14e48a8e78be98c9f4cc706d3023",
+      "size": 762
+    },
+    {
+      "path": "src/windows/broker-client.ps1",
+      "git_mode": "100644",
+      "git_blob": "f3aa021763faf162acfd8acb42f33d872ca1c98c",
+      "sha256": "28777ea9010ea2cc4881cc2ec9c763c211e6fa3ff899b4a711b878f7d89c9d04",
+      "size": 8520
+    },
+    {
+      "path": "src/windows/cdp-broker.ps1",
+      "git_mode": "100644",
+      "git_blob": "85096e1534b822cfd8fcf42c79ab5d9da3154f58",
+      "sha256": "d987721136c562e3dc298136398f94247760b14c1f4bf9bbe22f4ed97079c77a",
+      "size": 12147
+    },
+    {
+      "path": "src/windows/cdp-client.ps1",
+      "git_mode": "100644",
+      "git_blob": "9c61996d550340594a97aefcc498c4187dcd3261",
+      "sha256": "86c36d629b5e7264388948c993d57404ad30357f572c5c5509a36368b10092f9",
+      "size": 22015
+    },
+    {
+      "path": "src/windows/webgpt-zcode-bridge.ps1",
+      "git_mode": "100644",
+      "git_blob": "4ea12fa618db1d9b161e56f94d52b268c92f538c",
+      "sha256": "3347251d1fab7d1c564345b4d1dc1969b0127cc531141aba7ca9456f3ebde4d6",
+      "size": 31259
+    }
+  ],
+  "schema": 1
+}

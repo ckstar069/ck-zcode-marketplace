@@ -1,0 +1,13 @@
+{
+  "description": "Controlled bridge between ZCode and the user's logged-in browser chatgpt.com WebGPT conversations.",
+  "keywords": [
+    "zcode",
+    "webgpt",
+    "chatgpt",
+    "bridge"
+  ],
+  "name": "webgpt-zcode-bridge",
+  "repository": "https://github.com/ckstar069/ck-zcode-marketplace",
+  "skills": "skills",
+  "version": "0.1.0-rc.1"
+}

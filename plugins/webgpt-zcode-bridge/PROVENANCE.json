@@ -1,0 +1,10 @@
+{
+  "canonical_commit": "cd3c9091ae07f721b58a1ed9a17a831a461a09a2",
+  "canonical_repository": "ckstar069/ck-ai-kit",
+  "package_built_at": "2026-09-18T03:33:46Z",
+  "package_schema": 1,
+  "plugin": "webgpt-zcode-bridge",
+  "runtime_tree": "808bd9f9cae846e743cc0bf6447dd4a9e553e633",
+  "timestamp_source": "canonical_commit",
+  "version": "0.1.0-rc.1"
+}
